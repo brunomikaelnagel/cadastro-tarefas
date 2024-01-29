@@ -1,0 +1,12 @@
+.input_pers_container{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 2.5px;
+}
+
+.input_pers {
+    outline: none;
+    border: solid 2px black;
+    padding: 7.5px 15px;
+}

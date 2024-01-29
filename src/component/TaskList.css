@@ -1,0 +1,8 @@
+.task_list{
+    display: flex;
+    flex-direction: column;
+}
+
+.task_list_empty {
+    color: black;
+}

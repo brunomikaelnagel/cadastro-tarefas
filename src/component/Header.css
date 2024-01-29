@@ -1,0 +1,10 @@
+.header {
+    background-color: #292C34;
+    color: white;
+    height: 10vh;
+    width: 100%;
+  }
+  
+.header h1 {
+    color: #76D2F5;
+}
